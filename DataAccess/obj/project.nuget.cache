@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2H78soAB3nD7XhRQIJTNWsVzA4fWbKBtyYFuHwjHOGtTW3wOVPstPC7T9kewLyz1MWdD+OsrNmTYQOxWTnSLpA==",
+  "dgSpecHash": "BuZMFeG9B6x92jy2kHNFM/R1I0TAdy3KKSAqhtsDd0z9m2az/ZNA4yaL3nhlyo1r69bqU6wxmSamvgct72G0FA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ZXCDRILL\\Desktop\\VsStudioProject\\TasksControl\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "F:\\VsProject\\TasksControl\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ZXCDRILL\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\ZXCDRILL\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",

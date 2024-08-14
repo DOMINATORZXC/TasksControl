@@ -583,11 +583,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZXCDRILL\\Desktop\\VsStudioProject\\TasksControl\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "F:\\VsProject\\TasksControl\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\ZXCDRILL\\Desktop\\VsStudioProject\\TasksControl\\DataAccess\\DataAccess.csproj",
+      "projectPath": "F:\\VsProject\\TasksControl\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\ZXCDRILL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZXCDRILL\\Desktop\\VsStudioProject\\TasksControl\\DataAccess\\obj\\",
+      "outputPath": "F:\\VsProject\\TasksControl\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ZXCDRILL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -604,8 +604,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ZXCDRILL\\Desktop\\VsStudioProject\\TasksControl\\Domain.TasksControl\\Domain.TasksControl.csproj": {
-              "projectPath": "C:\\Users\\ZXCDRILL\\Desktop\\VsStudioProject\\TasksControl\\Domain.TasksControl\\Domain.TasksControl.csproj"
+            "F:\\VsProject\\TasksControl\\Domain.TasksControl\\Domain.TasksControl.csproj": {
+              "projectPath": "F:\\VsProject\\TasksControl\\Domain.TasksControl\\Domain.TasksControl.csproj"
             }
           }
         }

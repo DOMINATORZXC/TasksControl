@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a6Ka9mDBGprb8YP7V64JNkLurZMyZ493VhV55FnJccciHpx1qwXGKRv0Qhfy7mrqfpsYzcZB6oBHWkHvCBgPVA==",
+  "dgSpecHash": "UQ/e+QdGBCv1R7jJk8hQ9k2fzCJZbh6488DS2zVNiLuMvLPF0szB6AOxDZKZzFq+IjsNNsqayie6T9tOP7dEFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ZXCDRILL\\Desktop\\VsStudioProject\\TasksControl\\TasksControl\\TasksControl.csproj",
+  "projectFilePath": "F:\\VsProject\\TasksControl\\TasksControl\\TasksControl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ZXCDRILL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ZXCDRILL\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",

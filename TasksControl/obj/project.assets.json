@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZXCDRILL\\Desktop\\VsStudioProject\\TasksControl\\TasksControl\\TasksControl.csproj",
+      "projectUniqueName": "F:\\VsProject\\TasksControl\\TasksControl\\TasksControl.csproj",
       "projectName": "TasksControl",
-      "projectPath": "C:\\Users\\ZXCDRILL\\Desktop\\VsStudioProject\\TasksControl\\TasksControl\\TasksControl.csproj",
+      "projectPath": "F:\\VsProject\\TasksControl\\TasksControl\\TasksControl.csproj",
       "packagesPath": "C:\\Users\\ZXCDRILL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZXCDRILL\\Desktop\\VsStudioProject\\TasksControl\\TasksControl\\obj\\",
+      "outputPath": "F:\\VsProject\\TasksControl\\TasksControl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ZXCDRILL\\AppData\\Roaming\\NuGet\\NuGet.Config",

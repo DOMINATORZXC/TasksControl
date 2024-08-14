@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZXCDRILL\\Desktop\\VsStudioProject\\TasksControl\\Domain.TasksControl\\Domain.TasksControl.csproj",
+      "projectUniqueName": "F:\\VsProject\\TasksControl\\Domain.TasksControl\\Domain.TasksControl.csproj",
       "projectName": "Domain.TasksControl",
-      "projectPath": "C:\\Users\\ZXCDRILL\\Desktop\\VsStudioProject\\TasksControl\\Domain.TasksControl\\Domain.TasksControl.csproj",
+      "projectPath": "F:\\VsProject\\TasksControl\\Domain.TasksControl\\Domain.TasksControl.csproj",
       "packagesPath": "C:\\Users\\ZXCDRILL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZXCDRILL\\Desktop\\VsStudioProject\\TasksControl\\Domain.TasksControl\\obj\\",
+      "outputPath": "F:\\VsProject\\TasksControl\\Domain.TasksControl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ZXCDRILL\\AppData\\Roaming\\NuGet\\NuGet.Config",

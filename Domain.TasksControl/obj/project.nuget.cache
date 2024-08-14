@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uqJFg73mgtw1LU2Vx4+Tessyk3NYMZXJtd2r1/KuxXa+hW63tRotKcBUhSiW9+pEPOIzkLl6heFdGqhcltROOw==",
+  "dgSpecHash": "bdz+fDksZpSQRaJbbhO5lpilB8+OTL0tO6vRLa9TFVw2H1bqQRuNqvRsz/nujH/51wUopIa8LgZMbAjuLNteNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ZXCDRILL\\Desktop\\VsStudioProject\\TasksControl\\Domain.TasksControl\\Domain.TasksControl.csproj",
+  "projectFilePath": "F:\\VsProject\\TasksControl\\Domain.TasksControl\\Domain.TasksControl.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
