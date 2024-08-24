@@ -63,3 +63,5 @@ F:\VsProject\TasksControl\TasksControl\obj\Debug\net6.0\refint\TasksControl.dll
 F:\VsProject\TasksControl\TasksControl\obj\Debug\net6.0\TasksControl.pdb
 F:\VsProject\TasksControl\TasksControl\obj\Debug\net6.0\TasksControl.genruntimeconfig.cache
 F:\VsProject\TasksControl\TasksControl\obj\Debug\net6.0\ref\TasksControl.dll
+F:\VsProject\TasksControl\TasksControl\obj\Debug\net6.0\TasksControl.RazorAssemblyInfo.cache
+F:\VsProject\TasksControl\TasksControl\obj\Debug\net6.0\TasksControl.RazorAssemblyInfo.cs

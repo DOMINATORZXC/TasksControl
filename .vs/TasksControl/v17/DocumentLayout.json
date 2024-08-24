@@ -7,16 +7,36 @@
       "RelativeMoniker": "D:0:0:{BBCF2EE5-80C6-4DD7-80E8-36161154721B}|TasksControl\\TasksControl.csproj|solutionrelative:taskscontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BBCF2EE5-80C6-4DD7-80E8-36161154721B}|TasksControl\\TasksControl.csproj|F:\\VsProject\\TasksControl\\taskscontrol\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCF2EE5-80C6-4DD7-80E8-36161154721B}|TasksControl\\TasksControl.csproj|solutionrelative:taskscontrol\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{680CFD5D-8F72-44BD-9B50-1A0F16165226}|Domain.TasksControl\\Domain.TasksControl.csproj|F:\\VsProject\\TasksControl\\domain.taskscontrol\\enum\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{680CFD5D-8F72-44BD-9B50-1A0F16165226}|Domain.TasksControl\\Domain.TasksControl.csproj|solutionrelative:domain.taskscontrol\\enum\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7C74E69-67A5-44AC-AC83-2ECF87E672DD}|DataAccess\\DataAccess.csproj|F:\\VsProject\\TasksControl\\dataaccess\\taskscontrolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{680CFD5D-8F72-44BD-9B50-1A0F16165226}|Domain.TasksControl\\Domain.TasksControl.csproj|F:\\VsProject\\TasksControl\\domain.taskscontrol\\entity\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680CFD5D-8F72-44BD-9B50-1A0F16165226}|Domain.TasksControl\\Domain.TasksControl.csproj|solutionrelative:domain.taskscontrol\\entity\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C74E69-67A5-44AC-AC83-2ECF87E672DD}|DataAccess\\DataAccess.csproj|f:\\vsproject\\taskscontrol\\dataaccess\\taskscontrolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7C74E69-67A5-44AC-AC83-2ECF87E672DD}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\taskscontrolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{680CFD5D-8F72-44BD-9B50-1A0F16165226}|Domain.TasksControl\\Domain.TasksControl.csproj|F:\\VsProject\\TasksControl\\domain.taskscontrol\\entity\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{680CFD5D-8F72-44BD-9B50-1A0F16165226}|Domain.TasksControl\\Domain.TasksControl.csproj|solutionrelative:domain.taskscontrol\\entity\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7C74E69-67A5-44AC-AC83-2ECF87E672DD}|DataAccess\\DataAccess.csproj|F:\\VsProject\\TasksControl\\dataaccess\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C74E69-67A5-44AC-AC83-2ECF87E672DD}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C74E69-67A5-44AC-AC83-2ECF87E672DD}|DataAccess\\DataAccess.csproj|F:\\VsProject\\TasksControl\\dataaccess\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C74E69-67A5-44AC-AC83-2ECF87E672DD}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCF2EE5-80C6-4DD7-80E8-36161154721B}|TasksControl\\TasksControl.csproj|F:\\VsProject\\TasksControl\\taskscontrol\\view\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBCF2EE5-80C6-4DD7-80E8-36161154721B}|TasksControl\\TasksControl.csproj|solutionrelative:taskscontrol\\view\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCF2EE5-80C6-4DD7-80E8-36161154721B}|TasksControl\\TasksControl.csproj|F:\\VsProject\\TasksControl\\taskscontrol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBCF2EE5-80C6-4DD7-80E8-36161154721B}|TasksControl\\TasksControl.csproj|solutionrelative:taskscontrol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBCF2EE5-80C6-4DD7-80E8-36161154721B}|TasksControl\\TasksControl.csproj|F:\\VsProject\\TasksControl\\taskscontrol\\taskscontrol.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -25,22 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BBCF2EE5-80C6-4DD7-80E8-36161154721B}|TasksControl\\TasksControl.csproj|F:\\VsProject\\TasksControl\\taskscontrol\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BBCF2EE5-80C6-4DD7-80E8-36161154721B}|TasksControl\\TasksControl.csproj|solutionrelative:taskscontrol\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBCF2EE5-80C6-4DD7-80E8-36161154721B}|TasksControl\\TasksControl.csproj|F:\\VsProject\\TasksControl\\taskscontrol\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBCF2EE5-80C6-4DD7-80E8-36161154721B}|TasksControl\\TasksControl.csproj|solutionrelative:taskscontrol\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7C74E69-67A5-44AC-AC83-2ECF87E672DD}|DataAccess\\DataAccess.csproj|F:\\VsProject\\TasksControl\\dataaccess\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7C74E69-67A5-44AC-AC83-2ECF87E672DD}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBCF2EE5-80C6-4DD7-80E8-36161154721B}|TasksControl\\TasksControl.csproj|F:\\VsProject\\TasksControl\\taskscontrol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BBCF2EE5-80C6-4DD7-80E8-36161154721B}|TasksControl\\TasksControl.csproj|solutionrelative:taskscontrol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7C74E69-67A5-44AC-AC83-2ECF87E672DD}|DataAccess\\DataAccess.csproj|F:\\VsProject\\TasksControl\\dataaccess\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7C74E69-67A5-44AC-AC83-2ECF87E672DD}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B7C74E69-67A5-44AC-AC83-2ECF87E672DD}|DataAccess\\DataAccess.csproj|F:\\VsProject\\TasksControl\\dataaccess\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +74,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\VsProject\\TasksControl\\TasksControl\\View\\Index.cshtml",
+              "RelativeDocumentMoniker": "TasksControl\\View\\Index.cshtml",
+              "ToolTip": "F:\\VsProject\\TasksControl\\TasksControl\\View\\Index.cshtml",
+              "RelativeToolTip": "TasksControl\\View\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T22:18:01.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
               "DocumentMoniker": "F:\\VsProject\\TasksControl\\TasksControl\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TasksControl\\Properties\\launchSettings.json",
@@ -82,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "TasksControl",
               "DocumentMoniker": "F:\\VsProject\\TasksControl\\TasksControl\\TasksControl.csproj",
               "RelativeDocumentMoniker": "TasksControl\\TasksControl.csproj",
@@ -106,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "F:\\VsProject\\TasksControl\\TasksControl\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TasksControl\\Controllers\\HomeController.cs",
@@ -114,11 +130,12 @@
               "RelativeToolTip": "TasksControl\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T20:40:09.371Z"
+              "WhenOpened": "2024-08-07T20:40:09.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProjectStatus.cs",
               "DocumentMoniker": "F:\\VsProject\\TasksControl\\Domain.TasksControl\\Enum\\ProjectStatus.cs",
               "RelativeDocumentMoniker": "Domain.TasksControl\\Enum\\ProjectStatus.cs",
@@ -131,19 +148,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ProjectRepository.cs",
               "DocumentMoniker": "F:\\VsProject\\TasksControl\\DataAccess\\Repository\\ProjectRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repository\\ProjectRepository.cs",
               "ToolTip": "F:\\VsProject\\TasksControl\\DataAccess\\Repository\\ProjectRepository.cs",
               "RelativeToolTip": "DataAccess\\Repository\\ProjectRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T16:45:29.306Z"
+              "WhenOpened": "2024-07-21T16:45:29.306Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "IProjectRepository.cs",
               "DocumentMoniker": "F:\\VsProject\\TasksControl\\DataAccess\\Interfaces\\IProjectRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Interfaces\\IProjectRepository.cs",
@@ -151,11 +169,12 @@
               "RelativeToolTip": "DataAccess\\Interfaces\\IProjectRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T16:43:48.565Z"
+              "WhenOpened": "2024-07-21T16:43:48.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IBaseRepository.cs",
               "DocumentMoniker": "F:\\VsProject\\TasksControl\\DataAccess\\Interfaces\\IBaseRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Interfaces\\IBaseRepository.cs",
@@ -179,13 +198,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TasksControlContext.cs",
               "DocumentMoniker": "F:\\VsProject\\TasksControl\\DataAccess\\TasksControlContext.cs",
               "RelativeDocumentMoniker": "DataAccess\\TasksControlContext.cs",
               "ToolTip": "F:\\VsProject\\TasksControl\\DataAccess\\TasksControlContext.cs",
               "RelativeToolTip": "DataAccess\\TasksControlContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAkAAAAIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-20T16:45:29.858Z",
               "EditorCaption": ""
@@ -196,9 +215,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\VsProject\\TasksControl\\TasksControl\\Program.cs",
               "RelativeDocumentMoniker": "TasksControl\\Program.cs",
-              "ToolTip": "F:\\VsProject\\TasksControl\\TasksControl\\Program.cs*",
-              "RelativeToolTip": "TasksControl\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "ToolTip": "F:\\VsProject\\TasksControl\\TasksControl\\Program.cs",
+              "RelativeToolTip": "TasksControl\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-20T16:35:13.126Z",
               "EditorCaption": ""

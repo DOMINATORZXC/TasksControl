@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\VsProject\TasksControl\TasksControl
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/VsProject/TasksControl/TasksControl/View/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld1xJbmRleC5jc2h0bWw=
+[F:/VsProject/TasksControl/TasksControl/View/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VsProject/TasksControl/TasksControl/View/Tasks/TaskCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xUYXNrc1xUYXNrQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VsProject/TasksControl/TasksControl/View/Tasks/TaskEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xUYXNrc1xUYXNrRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
